@@ -1,0 +1,4 @@
+Video: sholawat.mp4
+Timestamp: 20260127_002510
+M3U8: sholawat_20260127_002510.m3u8
+Segments: 43
