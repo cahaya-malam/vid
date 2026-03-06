@@ -1,4 +1,4 @@
 Video: ixht4w.mp4
 Timestamp: 20260127_012450
 M3U8: ixht4w_20260127_012450.m3u8
-Segments: 4
+Segments: 6
